@@ -1,13 +1,8 @@
-# Sample Hardhat Project
+# META
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+contract address
 
-Try running some of the following tasks:
+```bash
+0x9559A2F8F32AA39813aefe53f865e37966e81e4A
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.ts
 ```
